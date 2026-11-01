@@ -1,4 +1,4 @@
-const CACHE_NAME = "indian-ride-3d-v2-pwa";
+const CACHE_NAME = "indian-ride-3d-neon-garage-v21";
 const CORE_ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon.svg"];
 
 self.addEventListener("install", event => {
