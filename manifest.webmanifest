@@ -1,0 +1,24 @@
+{
+  "id": "./",
+  "name": "Indian Ride Simulator 3D",
+  "short_name": "Indian Ride 3D",
+  "description": "A tablet-friendly Indian open-world 3D ride simulator.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#07111d",
+  "theme_color": "#07111d",
+  "categories": [
+    "games",
+    "entertainment"
+  ],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
